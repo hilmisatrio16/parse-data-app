@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ParseData App</string>
+    <string name="btn_back">Back to home</string>
+    <string name="my_data">My Data</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="halo_hilmi">Halo, Hilmi</string>
+    <string name="umur_kamu_20">Umur kamu 20</string>
+</resources>
